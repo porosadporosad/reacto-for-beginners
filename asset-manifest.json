@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/reacto-for-beginners/static/js/main.1bfb06be.js",
+    "main.js": "/reacto-for-beginners/static/js/main.dd1dc86b.js",
     "index.html": "/reacto-for-beginners/index.html",
-    "main.1bfb06be.js.map": "/reacto-for-beginners/static/js/main.1bfb06be.js.map"
+    "main.dd1dc86b.js.map": "/reacto-for-beginners/static/js/main.dd1dc86b.js.map"
   },
   "entrypoints": [
-    "static/js/main.1bfb06be.js"
+    "static/js/main.dd1dc86b.js"
   ]
 }
